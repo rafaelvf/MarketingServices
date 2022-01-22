@@ -172,6 +172,7 @@ section{
     font-size: 17px;
     margin-left: 11%;
     margin-right: 11%;
+    margin-top: 4%;
 }
 .div-seo-right{
     width: 33.33%;
@@ -249,5 +250,7 @@ section{
     list-style-type: none;
     /* margin-left: 38%; */
     text-align: center;
+    position: relative;
+    left: -1%;
     margin-bottom: -1%;
 }
